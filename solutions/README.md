@@ -5,7 +5,7 @@ Language: java
 
 Last updated: 2017-04-02
 
-I've solved 11/507 problems (92 problems for a fee).
+I've solved 12/507 problems (92 problems for a fee).
 
 The source code was fetched using the tool [leetcode-spider](https://github.com/Ma63d/leetcode-spider).
 
@@ -16,6 +16,7 @@ The source code was fetched using the tool [leetcode-spider](https://github.com/
 |048|[rotate-image](https://leetcode.com/problems/rotate-image/)| [java](./048.rotate-image/rotate-image.java)| Medium|
 |075|[sort-colors](https://leetcode.com/problems/sort-colors/)| [java](./075.sort-colors/sort-colors.java)| Medium|
 |094|[binary-tree-inorder-traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)| [java](./094.binary-tree-inorder-traversal/binary-tree-inorder-traversal.java)| Medium|
+|144|[binary-tree-preorder-traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)| [java](./144.binary-tree-preorder-traversal/binary-tree-preorder-traversal.java)| Medium|
 |162|[find-peak-element](https://leetcode.com/problems/find-peak-element/)| [java](./162.find-peak-element/find-peak-element.java)| Medium|
 |238|[product-of-array-except-self](https://leetcode.com/problems/product-of-array-except-self/)| [java](./238.product-of-array-except-self/product-of-array-except-self.java)| Medium|
 |278|[first-bad-version](https://leetcode.com/problems/first-bad-version/)| [java](./278.first-bad-version/first-bad-version.java)| Easy|
