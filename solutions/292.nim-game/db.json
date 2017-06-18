@@ -1,0 +1,1 @@
+{"java":"public class Solution {\r\n    public boolean canWinNim(int n) {\r\n        return n % 4 != 0 ;\r\n    }\r\n}"}
