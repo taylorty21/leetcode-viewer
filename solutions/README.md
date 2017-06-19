@@ -5,7 +5,7 @@ Language: java
 
 Last updated: 2017-06-18
 
-I've solved 43/551 problems (101 problems for a fee).
+I've solved 47/551 problems (101 problems for a fee).
 
 The source code was fetched using the tool [leetcode-spider](https://github.com/Ma63d/leetcode-spider).
 
@@ -14,10 +14,13 @@ The source code was fetched using the tool [leetcode-spider](https://github.com/
 |002|[add-two-numbers](https://leetcode.com/problems/add-two-numbers/)| [java](./002.add-two-numbers/add-two-numbers.java)| Medium|
 |007|[reverse-integer](https://leetcode.com/problems/reverse-integer/)| [java](./007.reverse-integer/reverse-integer.java)| Easy|
 |008|[string-to-integer-atoi](https://leetcode.com/problems/string-to-integer-atoi/)| [java](./008.string-to-integer-atoi/string-to-integer-atoi.java)| Medium|
+|019|[remove-nth-node-from-end-of-list](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)| [java](./019.remove-nth-node-from-end-of-list/remove-nth-node-from-end-of-list.java)| Medium|
 |021|[merge-two-sorted-lists](https://leetcode.com/problems/merge-two-sorted-lists/)| [java](./021.merge-two-sorted-lists/merge-two-sorted-lists.java)| Easy|
+|027|[remove-element](https://leetcode.com/problems/remove-element/)| [java](./027.remove-element/remove-element.java)| Easy|
 |028|[implement-strstr](https://leetcode.com/problems/implement-strstr/)| [java](./028.implement-strstr/implement-strstr.java)| Easy|
 |035|[search-insert-position](https://leetcode.com/problems/search-insert-position/)| [java](./035.search-insert-position/search-insert-position.java)| Easy|
 |048|[rotate-image](https://leetcode.com/problems/rotate-image/)| [java](./048.rotate-image/rotate-image.java)| Medium|
+|061|[rotate-list](https://leetcode.com/problems/rotate-list/)| [java](./061.rotate-list/rotate-list.java)| Medium|
 |069|[sqrtx](https://leetcode.com/problems/sqrtx/)| [java](./069.sqrtx/sqrtx.java)| Easy|
 |074|[search-a-2d-matrix](https://leetcode.com/problems/search-a-2d-matrix/)| [java](./074.search-a-2d-matrix/search-a-2d-matrix.java)| Medium|
 |075|[sort-colors](https://leetcode.com/problems/sort-colors/)| [java](./075.sort-colors/sort-colors.java)| Medium|
@@ -27,6 +30,7 @@ The source code was fetched using the tool [leetcode-spider](https://github.com/
 |098|[validate-binary-search-tree](https://leetcode.com/problems/validate-binary-search-tree/)| [java](./098.validate-binary-search-tree/validate-binary-search-tree.java)| Medium|
 |101|[symmetric-tree](https://leetcode.com/problems/symmetric-tree/)| [java](./101.symmetric-tree/symmetric-tree.java)| Easy|
 |110|[balanced-binary-tree](https://leetcode.com/problems/balanced-binary-tree/)| [java](./110.balanced-binary-tree/balanced-binary-tree.java)| Easy|
+|136|[single-number](https://leetcode.com/problems/single-number/)| [java](./136.single-number/single-number.java)| Easy|
 |141|[linked-list-cycle](https://leetcode.com/problems/linked-list-cycle/)| [java](./141.linked-list-cycle/linked-list-cycle.java)| Easy|
 |143|[reorder-list](https://leetcode.com/problems/reorder-list/)| [java](./143.reorder-list/reorder-list.java)| Medium|
 |144|[binary-tree-preorder-traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)| [java](./144.binary-tree-preorder-traversal/binary-tree-preorder-traversal.java)| Medium|
