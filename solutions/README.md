@@ -3,9 +3,9 @@ This is my leetcode solution folder.
 
 Language: java
 
-Last updated: 2017-06-18
+Last updated: 2017-06-19
 
-I've solved 47/551 problems (101 problems for a fee).
+I've solved 50/551 problems (101 problems for a fee).
 
 The source code was fetched using the tool [leetcode-spider](https://github.com/Ma63d/leetcode-spider).
 
@@ -29,11 +29,13 @@ The source code was fetched using the tool [leetcode-spider](https://github.com/
 |094|[binary-tree-inorder-traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)| [java](./094.binary-tree-inorder-traversal/binary-tree-inorder-traversal.java)| Medium|
 |098|[validate-binary-search-tree](https://leetcode.com/problems/validate-binary-search-tree/)| [java](./098.validate-binary-search-tree/validate-binary-search-tree.java)| Medium|
 |101|[symmetric-tree](https://leetcode.com/problems/symmetric-tree/)| [java](./101.symmetric-tree/symmetric-tree.java)| Easy|
+|104|[maximum-depth-of-binary-tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)| [java](./104.maximum-depth-of-binary-tree/maximum-depth-of-binary-tree.java)| Easy|
 |110|[balanced-binary-tree](https://leetcode.com/problems/balanced-binary-tree/)| [java](./110.balanced-binary-tree/balanced-binary-tree.java)| Easy|
 |136|[single-number](https://leetcode.com/problems/single-number/)| [java](./136.single-number/single-number.java)| Easy|
 |141|[linked-list-cycle](https://leetcode.com/problems/linked-list-cycle/)| [java](./141.linked-list-cycle/linked-list-cycle.java)| Easy|
 |143|[reorder-list](https://leetcode.com/problems/reorder-list/)| [java](./143.reorder-list/reorder-list.java)| Medium|
 |144|[binary-tree-preorder-traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)| [java](./144.binary-tree-preorder-traversal/binary-tree-preorder-traversal.java)| Medium|
+|147|[insertion-sort-list](https://leetcode.com/problems/insertion-sort-list/)| [java](./147.insertion-sort-list/insertion-sort-list.java)| Medium|
 |155|[min-stack](https://leetcode.com/problems/min-stack/)| [java](./155.min-stack/min-stack.java)| Easy|
 |160|[intersection-of-two-linked-lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)| [java](./160.intersection-of-two-linked-lists/intersection-of-two-linked-lists.java)| Easy|
 |162|[find-peak-element](https://leetcode.com/problems/find-peak-element/)| [java](./162.find-peak-element/find-peak-element.java)| Medium|
@@ -54,6 +56,7 @@ The source code was fetched using the tool [leetcode-spider](https://github.com/
 |367|[valid-perfect-square](https://leetcode.com/problems/valid-perfect-square/)| [java](./367.valid-perfect-square/valid-perfect-square.java)| Easy|
 |378|[kth-smallest-element-in-a-sorted-matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)| [java](./378.kth-smallest-element-in-a-sorted-matrix/kth-smallest-element-in-a-sorted-matrix.java)| Medium|
 |412|[fizz-buzz](https://leetcode.com/problems/fizz-buzz/)| [java](./412.fizz-buzz/fizz-buzz.java)| Easy|
+|413|[arithmetic-slices](https://leetcode.com/problems/arithmetic-slices/)| [java](./413.arithmetic-slices/arithmetic-slices.java)| Medium|
 |441|[arranging-coins](https://leetcode.com/problems/arranging-coins/)| [java](./441.arranging-coins/arranging-coins.java)| Easy|
 |445|[add-two-numbers-ii](https://leetcode.com/problems/add-two-numbers-ii/)| [java](./445.add-two-numbers-ii/add-two-numbers-ii.java)| Medium|
 |461|[hamming-distance](https://leetcode.com/problems/hamming-distance/)| [java](./461.hamming-distance/hamming-distance.java)| Easy|
