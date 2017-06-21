@@ -3,9 +3,9 @@ This is my leetcode solution folder.
 
 Language: java
 
-Last updated: 2017-06-19
+Last updated: 2017-06-20
 
-I've solved 50/551 problems (101 problems for a fee).
+I've solved 52/551 problems (101 problems for a fee).
 
 The source code was fetched using the tool [leetcode-spider](https://github.com/Ma63d/leetcode-spider).
 
@@ -52,6 +52,7 @@ The source code was fetched using the tool [leetcode-spider](https://github.com/
 |287|[find-the-duplicate-number](https://leetcode.com/problems/find-the-duplicate-number/)| [java](./287.find-the-duplicate-number/find-the-duplicate-number.java)| Medium|
 |292|[nim-game](https://leetcode.com/problems/nim-game/)| [java](./292.nim-game/nim-game.java)| Easy|
 |328|[odd-even-linked-list](https://leetcode.com/problems/odd-even-linked-list/)| [java](./328.odd-even-linked-list/odd-even-linked-list.java)| Medium|
+|338|[counting-bits](https://leetcode.com/problems/counting-bits/)| [java](./338.counting-bits/counting-bits.java)| Medium|
 |344|[reverse-string](https://leetcode.com/problems/reverse-string/)| [java](./344.reverse-string/reverse-string.java)| Easy|
 |367|[valid-perfect-square](https://leetcode.com/problems/valid-perfect-square/)| [java](./367.valid-perfect-square/valid-perfect-square.java)| Easy|
 |378|[kth-smallest-element-in-a-sorted-matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)| [java](./378.kth-smallest-element-in-a-sorted-matrix/kth-smallest-element-in-a-sorted-matrix.java)| Medium|
@@ -61,3 +62,4 @@ The source code was fetched using the tool [leetcode-spider](https://github.com/
 |445|[add-two-numbers-ii](https://leetcode.com/problems/add-two-numbers-ii/)| [java](./445.add-two-numbers-ii/add-two-numbers-ii.java)| Medium|
 |461|[hamming-distance](https://leetcode.com/problems/hamming-distance/)| [java](./461.hamming-distance/hamming-distance.java)| Easy|
 |495|[teemo-attacking](https://leetcode.com/problems/teemo-attacking/)| [java](./495.teemo-attacking/teemo-attacking.java)| Medium|
+|557|[reverse-words-in-a-string-iii](https://leetcode.com/problems/reverse-words-in-a-string-iii/)| [java](./557.reverse-words-in-a-string-iii/reverse-words-in-a-string-iii.java)| Easy|
