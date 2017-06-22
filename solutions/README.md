@@ -3,9 +3,9 @@ This is my leetcode solution folder.
 
 Language: java
 
-Last updated: 2017-06-20
+Last updated: 2017-06-21
 
-I've solved 52/551 problems (101 problems for a fee).
+I've solved 53/551 problems (101 problems for a fee).
 
 The source code was fetched using the tool [leetcode-spider](https://github.com/Ma63d/leetcode-spider).
 
@@ -61,5 +61,6 @@ The source code was fetched using the tool [leetcode-spider](https://github.com/
 |441|[arranging-coins](https://leetcode.com/problems/arranging-coins/)| [java](./441.arranging-coins/arranging-coins.java)| Easy|
 |445|[add-two-numbers-ii](https://leetcode.com/problems/add-two-numbers-ii/)| [java](./445.add-two-numbers-ii/add-two-numbers-ii.java)| Medium|
 |461|[hamming-distance](https://leetcode.com/problems/hamming-distance/)| [java](./461.hamming-distance/hamming-distance.java)| Easy|
+|485|[max-consecutive-ones](https://leetcode.com/problems/max-consecutive-ones/)| [java](./485.max-consecutive-ones/max-consecutive-ones.java)| Easy|
 |495|[teemo-attacking](https://leetcode.com/problems/teemo-attacking/)| [java](./495.teemo-attacking/teemo-attacking.java)| Medium|
 |557|[reverse-words-in-a-string-iii](https://leetcode.com/problems/reverse-words-in-a-string-iii/)| [java](./557.reverse-words-in-a-string-iii/reverse-words-in-a-string-iii.java)| Easy|
