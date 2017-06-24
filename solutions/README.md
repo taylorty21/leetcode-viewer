@@ -3,9 +3,9 @@ This is my leetcode solution folder.
 
 Language: java
 
-Last updated: 2017-06-22
+Last updated: 2017-06-23
 
-I've solved 54/551 problems (101 problems for a fee).
+I've solved 56/551 problems (101 problems for a fee).
 
 The source code was fetched using the tool [leetcode-spider](https://github.com/Ma63d/leetcode-spider).
 
@@ -19,11 +19,13 @@ The source code was fetched using the tool [leetcode-spider](https://github.com/
 |027|[remove-element](https://leetcode.com/problems/remove-element/)| [java](./027.remove-element/remove-element.java)| Easy|
 |028|[implement-strstr](https://leetcode.com/problems/implement-strstr/)| [java](./028.implement-strstr/implement-strstr.java)| Easy|
 |035|[search-insert-position](https://leetcode.com/problems/search-insert-position/)| [java](./035.search-insert-position/search-insert-position.java)| Easy|
+|046|[permutations](https://leetcode.com/problems/permutations/)| [java](./046.permutations/permutations.java)| Medium|
 |048|[rotate-image](https://leetcode.com/problems/rotate-image/)| [java](./048.rotate-image/rotate-image.java)| Medium|
 |061|[rotate-list](https://leetcode.com/problems/rotate-list/)| [java](./061.rotate-list/rotate-list.java)| Medium|
 |069|[sqrtx](https://leetcode.com/problems/sqrtx/)| [java](./069.sqrtx/sqrtx.java)| Easy|
 |074|[search-a-2d-matrix](https://leetcode.com/problems/search-a-2d-matrix/)| [java](./074.search-a-2d-matrix/search-a-2d-matrix.java)| Medium|
 |075|[sort-colors](https://leetcode.com/problems/sort-colors/)| [java](./075.sort-colors/sort-colors.java)| Medium|
+|078|[subsets](https://leetcode.com/problems/subsets/)| [java](./078.subsets/subsets.java)| Medium|
 |083|[remove-duplicates-from-sorted-list](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)| [java](./083.remove-duplicates-from-sorted-list/remove-duplicates-from-sorted-list.java)| Easy|
 |092|[reverse-linked-list-ii](https://leetcode.com/problems/reverse-linked-list-ii/)| [java](./092.reverse-linked-list-ii/reverse-linked-list-ii.java)| Medium|
 |094|[binary-tree-inorder-traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)| [java](./094.binary-tree-inorder-traversal/binary-tree-inorder-traversal.java)| Medium|
