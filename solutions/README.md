@@ -3,9 +3,9 @@ This is my leetcode solution folder.
 
 Language: java
 
-Last updated: 2017-06-23
+Last updated: 2017-06-24
 
-I've solved 56/551 problems (101 problems for a fee).
+I've solved 60/555 problems (101 problems for a fee).
 
 The source code was fetched using the tool [leetcode-spider](https://github.com/Ma63d/leetcode-spider).
 
@@ -18,8 +18,10 @@ The source code was fetched using the tool [leetcode-spider](https://github.com/
 |021|[merge-two-sorted-lists](https://leetcode.com/problems/merge-two-sorted-lists/)| [java](./021.merge-two-sorted-lists/merge-two-sorted-lists.java)| Easy|
 |027|[remove-element](https://leetcode.com/problems/remove-element/)| [java](./027.remove-element/remove-element.java)| Easy|
 |028|[implement-strstr](https://leetcode.com/problems/implement-strstr/)| [java](./028.implement-strstr/implement-strstr.java)| Easy|
+|031|[next-permutation](https://leetcode.com/problems/next-permutation/)| [java](./031.next-permutation/next-permutation.java)| Medium|
 |035|[search-insert-position](https://leetcode.com/problems/search-insert-position/)| [java](./035.search-insert-position/search-insert-position.java)| Easy|
 |046|[permutations](https://leetcode.com/problems/permutations/)| [java](./046.permutations/permutations.java)| Medium|
+|047|[permutations-ii](https://leetcode.com/problems/permutations-ii/)| [java](./047.permutations-ii/permutations-ii.java)| Medium|
 |048|[rotate-image](https://leetcode.com/problems/rotate-image/)| [java](./048.rotate-image/rotate-image.java)| Medium|
 |061|[rotate-list](https://leetcode.com/problems/rotate-list/)| [java](./061.rotate-list/rotate-list.java)| Medium|
 |069|[sqrtx](https://leetcode.com/problems/sqrtx/)| [java](./069.sqrtx/sqrtx.java)| Easy|
@@ -27,6 +29,7 @@ The source code was fetched using the tool [leetcode-spider](https://github.com/
 |075|[sort-colors](https://leetcode.com/problems/sort-colors/)| [java](./075.sort-colors/sort-colors.java)| Medium|
 |078|[subsets](https://leetcode.com/problems/subsets/)| [java](./078.subsets/subsets.java)| Medium|
 |083|[remove-duplicates-from-sorted-list](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)| [java](./083.remove-duplicates-from-sorted-list/remove-duplicates-from-sorted-list.java)| Easy|
+|090|[subsets-ii](https://leetcode.com/problems/subsets-ii/)| [java](./090.subsets-ii/subsets-ii.java)| Medium|
 |092|[reverse-linked-list-ii](https://leetcode.com/problems/reverse-linked-list-ii/)| [java](./092.reverse-linked-list-ii/reverse-linked-list-ii.java)| Medium|
 |094|[binary-tree-inorder-traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)| [java](./094.binary-tree-inorder-traversal/binary-tree-inorder-traversal.java)| Medium|
 |098|[validate-binary-search-tree](https://leetcode.com/problems/validate-binary-search-tree/)| [java](./098.validate-binary-search-tree/validate-binary-search-tree.java)| Medium|
@@ -67,3 +70,4 @@ The source code was fetched using the tool [leetcode-spider](https://github.com/
 |495|[teemo-attacking](https://leetcode.com/problems/teemo-attacking/)| [java](./495.teemo-attacking/teemo-attacking.java)| Medium|
 |541|[reverse-string-ii](https://leetcode.com/problems/reverse-string-ii/)| [java](./541.reverse-string-ii/reverse-string-ii.java)| Easy|
 |557|[reverse-words-in-a-string-iii](https://leetcode.com/problems/reverse-words-in-a-string-iii/)| [java](./557.reverse-words-in-a-string-iii/reverse-words-in-a-string-iii.java)| Easy|
+|628|[maximum-product-of-three-numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/)|| Easy|
