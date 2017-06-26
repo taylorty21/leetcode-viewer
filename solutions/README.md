@@ -3,9 +3,9 @@ This is my leetcode solution folder.
 
 Language: java
 
-Last updated: 2017-06-24
+Last updated: 2017-06-25
 
-I've solved 60/555 problems (101 problems for a fee).
+I've solved 65/555 problems (101 problems for a fee).
 
 The source code was fetched using the tool [leetcode-spider](https://github.com/Ma63d/leetcode-spider).
 
@@ -68,6 +68,11 @@ The source code was fetched using the tool [leetcode-spider](https://github.com/
 |461|[hamming-distance](https://leetcode.com/problems/hamming-distance/)| [java](./461.hamming-distance/hamming-distance.java)| Easy|
 |485|[max-consecutive-ones](https://leetcode.com/problems/max-consecutive-ones/)| [java](./485.max-consecutive-ones/max-consecutive-ones.java)| Easy|
 |495|[teemo-attacking](https://leetcode.com/problems/teemo-attacking/)| [java](./495.teemo-attacking/teemo-attacking.java)| Medium|
+|535|[encode-and-decode-tinyurl](https://leetcode.com/problems/encode-and-decode-tinyurl/)| [java](./535.encode-and-decode-tinyurl/encode-and-decode-tinyurl.java)| Medium|
+|537|[complex-number-multiplication](https://leetcode.com/problems/complex-number-multiplication/)| [java](./537.complex-number-multiplication/complex-number-multiplication.java)| Medium|
 |541|[reverse-string-ii](https://leetcode.com/problems/reverse-string-ii/)| [java](./541.reverse-string-ii/reverse-string-ii.java)| Easy|
+|553|[optimal-division](https://leetcode.com/problems/optimal-division/)| [java](./553.optimal-division/optimal-division.java)| Medium|
 |557|[reverse-words-in-a-string-iii](https://leetcode.com/problems/reverse-words-in-a-string-iii/)| [java](./557.reverse-words-in-a-string-iii/reverse-words-in-a-string-iii.java)| Easy|
+|561|[array-partition-i](https://leetcode.com/problems/array-partition-i/)| [java](./561.array-partition-i/array-partition-i.java)| Easy|
+|575|[distribute-candies](https://leetcode.com/problems/distribute-candies/)| [java](./575.distribute-candies/distribute-candies.java)| Easy|
 |628|[maximum-product-of-three-numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/)|| Easy|

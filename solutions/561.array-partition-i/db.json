@@ -1,0 +1,1 @@
+{"java":"public class Solution {\r\n    public int arrayPairSum(int[] nums) {\r\n        Arrays.sort(nums);\r\n        int result = 0;\r\n        for (int i = 0; i < nums.length; i += 2) {\r\n            result += nums[i];\r\n        }\r\n        return result;\r\n    }\r\n}"}
