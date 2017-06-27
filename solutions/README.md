@@ -3,9 +3,9 @@ This is my leetcode solution folder.
 
 Language: java
 
-Last updated: 2017-06-25
+Last updated: 2017-06-26
 
-I've solved 65/555 problems (101 problems for a fee).
+I've solved 66/555 problems (101 problems for a fee).
 
 The source code was fetched using the tool [leetcode-spider](https://github.com/Ma63d/leetcode-spider).
 
@@ -54,6 +54,7 @@ The source code was fetched using the tool [leetcode-spider](https://github.com/
 |240|[search-a-2d-matrix-ii](https://leetcode.com/problems/search-a-2d-matrix-ii/)| [java](./240.search-a-2d-matrix-ii/search-a-2d-matrix-ii.java)| Medium|
 |268|[missing-number](https://leetcode.com/problems/missing-number/)| [java](./268.missing-number/missing-number.java)| Easy|
 |278|[first-bad-version](https://leetcode.com/problems/first-bad-version/)| [java](./278.first-bad-version/first-bad-version.java)| Easy|
+|283|[move-zeroes](https://leetcode.com/problems/move-zeroes/)|| Easy|
 |287|[find-the-duplicate-number](https://leetcode.com/problems/find-the-duplicate-number/)| [java](./287.find-the-duplicate-number/find-the-duplicate-number.java)| Medium|
 |292|[nim-game](https://leetcode.com/problems/nim-game/)| [java](./292.nim-game/nim-game.java)| Easy|
 |328|[odd-even-linked-list](https://leetcode.com/problems/odd-even-linked-list/)| [java](./328.odd-even-linked-list/odd-even-linked-list.java)| Medium|
