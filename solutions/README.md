@@ -3,17 +3,19 @@ This is my leetcode solution folder.
 
 Language: java
 
-Last updated: 2017-06-26
+Last updated: 2017-06-27
 
-I've solved 66/555 problems (101 problems for a fee).
+I've solved 70/555 problems (101 problems for a fee).
 
 The source code was fetched using the tool [leetcode-spider](https://github.com/Ma63d/leetcode-spider).
 
 | # | Problems | Solutions | Difficulty |
 |:--:|:-----:|:---------:|:----:|
+|001|[two-sum](https://leetcode.com/problems/two-sum/)| [java](./001.two-sum/two-sum.java)| Easy|
 |002|[add-two-numbers](https://leetcode.com/problems/add-two-numbers/)| [java](./002.add-two-numbers/add-two-numbers.java)| Medium|
 |007|[reverse-integer](https://leetcode.com/problems/reverse-integer/)| [java](./007.reverse-integer/reverse-integer.java)| Easy|
 |008|[string-to-integer-atoi](https://leetcode.com/problems/string-to-integer-atoi/)| [java](./008.string-to-integer-atoi/string-to-integer-atoi.java)| Medium|
+|009|[palindrome-number](https://leetcode.com/problems/palindrome-number/)| [java](./009.palindrome-number/palindrome-number.java)| Easy|
 |019|[remove-nth-node-from-end-of-list](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)| [java](./019.remove-nth-node-from-end-of-list/remove-nth-node-from-end-of-list.java)| Medium|
 |021|[merge-two-sorted-lists](https://leetcode.com/problems/merge-two-sorted-lists/)| [java](./021.merge-two-sorted-lists/merge-two-sorted-lists.java)| Easy|
 |027|[remove-element](https://leetcode.com/problems/remove-element/)| [java](./027.remove-element/remove-element.java)| Easy|
@@ -24,6 +26,7 @@ The source code was fetched using the tool [leetcode-spider](https://github.com/
 |047|[permutations-ii](https://leetcode.com/problems/permutations-ii/)| [java](./047.permutations-ii/permutations-ii.java)| Medium|
 |048|[rotate-image](https://leetcode.com/problems/rotate-image/)| [java](./048.rotate-image/rotate-image.java)| Medium|
 |061|[rotate-list](https://leetcode.com/problems/rotate-list/)| [java](./061.rotate-list/rotate-list.java)| Medium|
+|067|[add-binary](https://leetcode.com/problems/add-binary/)| [java](./067.add-binary/add-binary.java)| Easy|
 |069|[sqrtx](https://leetcode.com/problems/sqrtx/)| [java](./069.sqrtx/sqrtx.java)| Easy|
 |074|[search-a-2d-matrix](https://leetcode.com/problems/search-a-2d-matrix/)| [java](./074.search-a-2d-matrix/search-a-2d-matrix.java)| Medium|
 |075|[sort-colors](https://leetcode.com/problems/sort-colors/)| [java](./075.sort-colors/sort-colors.java)| Medium|
@@ -44,6 +47,7 @@ The source code was fetched using the tool [leetcode-spider](https://github.com/
 |155|[min-stack](https://leetcode.com/problems/min-stack/)| [java](./155.min-stack/min-stack.java)| Easy|
 |160|[intersection-of-two-linked-lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)| [java](./160.intersection-of-two-linked-lists/intersection-of-two-linked-lists.java)| Easy|
 |162|[find-peak-element](https://leetcode.com/problems/find-peak-element/)| [java](./162.find-peak-element/find-peak-element.java)| Medium|
+|167|[two-sum-ii-input-array-is-sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)| [java](./167.two-sum-ii-input-array-is-sorted/two-sum-ii-input-array-is-sorted.java)| Easy|
 |203|[remove-linked-list-elements](https://leetcode.com/problems/remove-linked-list-elements/)| [java](./203.remove-linked-list-elements/remove-linked-list-elements.java)| Easy|
 |206|[reverse-linked-list](https://leetcode.com/problems/reverse-linked-list/)| [java](./206.reverse-linked-list/reverse-linked-list.java)| Easy|
 |215|[kth-largest-element-in-an-array](https://leetcode.com/problems/kth-largest-element-in-an-array/)| [java](./215.kth-largest-element-in-an-array/kth-largest-element-in-an-array.java)| Medium|
