@@ -3,9 +3,9 @@ This is my leetcode solution folder.
 
 Language: java
 
-Last updated: 2017-06-27
+Last updated: 2017-06-29
 
-I've solved 70/555 problems (101 problems for a fee).
+I've solved 71/555 problems (101 problems for a fee).
 
 The source code was fetched using the tool [leetcode-spider](https://github.com/Ma63d/leetcode-spider).
 
@@ -66,6 +66,7 @@ The source code was fetched using the tool [leetcode-spider](https://github.com/
 |344|[reverse-string](https://leetcode.com/problems/reverse-string/)| [java](./344.reverse-string/reverse-string.java)| Easy|
 |367|[valid-perfect-square](https://leetcode.com/problems/valid-perfect-square/)| [java](./367.valid-perfect-square/valid-perfect-square.java)| Easy|
 |378|[kth-smallest-element-in-a-sorted-matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)| [java](./378.kth-smallest-element-in-a-sorted-matrix/kth-smallest-element-in-a-sorted-matrix.java)| Medium|
+|404|[sum-of-left-leaves](https://leetcode.com/problems/sum-of-left-leaves/)| [java](./404.sum-of-left-leaves/sum-of-left-leaves.java)| Easy|
 |412|[fizz-buzz](https://leetcode.com/problems/fizz-buzz/)| [java](./412.fizz-buzz/fizz-buzz.java)| Easy|
 |413|[arithmetic-slices](https://leetcode.com/problems/arithmetic-slices/)| [java](./413.arithmetic-slices/arithmetic-slices.java)| Medium|
 |441|[arranging-coins](https://leetcode.com/problems/arranging-coins/)| [java](./441.arranging-coins/arranging-coins.java)| Easy|
