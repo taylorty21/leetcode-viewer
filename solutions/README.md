@@ -3,9 +3,9 @@ This is my leetcode solution folder.
 
 Language: java
 
-Last updated: 2017-06-30
+Last updated: 2017-07-02
 
-I've solved 72/555 problems (101 problems for a fee).
+I've solved 73/559 problems (101 problems for a fee).
 
 The source code was fetched using the tool [leetcode-spider](https://github.com/Ma63d/leetcode-spider).
 
@@ -17,6 +17,7 @@ The source code was fetched using the tool [leetcode-spider](https://github.com/
 |008|[string-to-integer-atoi](https://leetcode.com/problems/string-to-integer-atoi/)| [java](./008.string-to-integer-atoi/string-to-integer-atoi.java)| Medium|
 |009|[palindrome-number](https://leetcode.com/problems/palindrome-number/)| [java](./009.palindrome-number/palindrome-number.java)| Easy|
 |013|[roman-to-integer](https://leetcode.com/problems/roman-to-integer/)| [java](./013.roman-to-integer/roman-to-integer.java)| Easy|
+|014|[longest-common-prefix](https://leetcode.com/problems/longest-common-prefix/)| [java](./014.longest-common-prefix/longest-common-prefix.java)| Easy|
 |019|[remove-nth-node-from-end-of-list](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)| [java](./019.remove-nth-node-from-end-of-list/remove-nth-node-from-end-of-list.java)| Medium|
 |021|[merge-two-sorted-lists](https://leetcode.com/problems/merge-two-sorted-lists/)| [java](./021.merge-two-sorted-lists/merge-two-sorted-lists.java)| Easy|
 |027|[remove-element](https://leetcode.com/problems/remove-element/)| [java](./027.remove-element/remove-element.java)| Easy|
