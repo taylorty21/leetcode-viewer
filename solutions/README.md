@@ -3,9 +3,9 @@ This is my leetcode solution folder.
 
 Language: java
 
-Last updated: 2017-07-02
+Last updated: 2017-08-12
 
-I've solved 73/559 problems (101 problems for a fee).
+I've solved 82/581 problems (110 problems for a fee).
 
 The source code was fetched using the tool [leetcode-spider](https://github.com/Ma63d/leetcode-spider).
 
@@ -18,7 +18,9 @@ The source code was fetched using the tool [leetcode-spider](https://github.com/
 |009|[palindrome-number](https://leetcode.com/problems/palindrome-number/)| [java](./009.palindrome-number/palindrome-number.java)| Easy|
 |013|[roman-to-integer](https://leetcode.com/problems/roman-to-integer/)| [java](./013.roman-to-integer/roman-to-integer.java)| Easy|
 |014|[longest-common-prefix](https://leetcode.com/problems/longest-common-prefix/)| [java](./014.longest-common-prefix/longest-common-prefix.java)| Easy|
+|015|[3sum](https://leetcode.com/problems/3sum/)| [java](./015.3sum/3sum.java)| Medium|
 |019|[remove-nth-node-from-end-of-list](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)| [java](./019.remove-nth-node-from-end-of-list/remove-nth-node-from-end-of-list.java)| Medium|
+|020|[valid-parentheses](https://leetcode.com/problems/valid-parentheses/)| [java](./020.valid-parentheses/valid-parentheses.java)| Easy|
 |021|[merge-two-sorted-lists](https://leetcode.com/problems/merge-two-sorted-lists/)| [java](./021.merge-two-sorted-lists/merge-two-sorted-lists.java)| Easy|
 |027|[remove-element](https://leetcode.com/problems/remove-element/)| [java](./027.remove-element/remove-element.java)| Easy|
 |028|[implement-strstr](https://leetcode.com/problems/implement-strstr/)| [java](./028.implement-strstr/implement-strstr.java)| Easy|
@@ -27,6 +29,8 @@ The source code was fetched using the tool [leetcode-spider](https://github.com/
 |046|[permutations](https://leetcode.com/problems/permutations/)| [java](./046.permutations/permutations.java)| Medium|
 |047|[permutations-ii](https://leetcode.com/problems/permutations-ii/)| [java](./047.permutations-ii/permutations-ii.java)| Medium|
 |048|[rotate-image](https://leetcode.com/problems/rotate-image/)| [java](./048.rotate-image/rotate-image.java)| Medium|
+|051|[n-queens](https://leetcode.com/problems/n-queens/)| [java](./051.n-queens/n-queens.java)| hard|
+|053|[maximum-subarray](https://leetcode.com/problems/maximum-subarray/)| [java](./053.maximum-subarray/maximum-subarray.java)| Easy|
 |061|[rotate-list](https://leetcode.com/problems/rotate-list/)| [java](./061.rotate-list/rotate-list.java)| Medium|
 |067|[add-binary](https://leetcode.com/problems/add-binary/)| [java](./067.add-binary/add-binary.java)| Easy|
 |069|[sqrtx](https://leetcode.com/problems/sqrtx/)| [java](./069.sqrtx/sqrtx.java)| Easy|
@@ -38,9 +42,13 @@ The source code was fetched using the tool [leetcode-spider](https://github.com/
 |092|[reverse-linked-list-ii](https://leetcode.com/problems/reverse-linked-list-ii/)| [java](./092.reverse-linked-list-ii/reverse-linked-list-ii.java)| Medium|
 |094|[binary-tree-inorder-traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)| [java](./094.binary-tree-inorder-traversal/binary-tree-inorder-traversal.java)| Medium|
 |098|[validate-binary-search-tree](https://leetcode.com/problems/validate-binary-search-tree/)| [java](./098.validate-binary-search-tree/validate-binary-search-tree.java)| Medium|
+|100|[same-tree](https://leetcode.com/problems/same-tree/)| [java](./100.same-tree/same-tree.java)| Easy|
 |101|[symmetric-tree](https://leetcode.com/problems/symmetric-tree/)| [java](./101.symmetric-tree/symmetric-tree.java)| Easy|
 |104|[maximum-depth-of-binary-tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)| [java](./104.maximum-depth-of-binary-tree/maximum-depth-of-binary-tree.java)| Easy|
+|108|[convert-sorted-array-to-binary-search-tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)| [java](./108.convert-sorted-array-to-binary-search-tree/convert-sorted-array-to-binary-search-tree.java)| Easy|
 |110|[balanced-binary-tree](https://leetcode.com/problems/balanced-binary-tree/)| [java](./110.balanced-binary-tree/balanced-binary-tree.java)| Easy|
+|111|[minimum-depth-of-binary-tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)| [java](./111.minimum-depth-of-binary-tree/minimum-depth-of-binary-tree.java)| Easy|
+|116|[populating-next-right-pointers-in-each-node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)| [java](./116.populating-next-right-pointers-in-each-node/populating-next-right-pointers-in-each-node.java)| Medium|
 |136|[single-number](https://leetcode.com/problems/single-number/)| [java](./136.single-number/single-number.java)| Easy|
 |141|[linked-list-cycle](https://leetcode.com/problems/linked-list-cycle/)| [java](./141.linked-list-cycle/linked-list-cycle.java)| Easy|
 |143|[reorder-list](https://leetcode.com/problems/reorder-list/)| [java](./143.reorder-list/reorder-list.java)| Medium|
@@ -52,6 +60,7 @@ The source code was fetched using the tool [leetcode-spider](https://github.com/
 |167|[two-sum-ii-input-array-is-sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)| [java](./167.two-sum-ii-input-array-is-sorted/two-sum-ii-input-array-is-sorted.java)| Easy|
 |203|[remove-linked-list-elements](https://leetcode.com/problems/remove-linked-list-elements/)| [java](./203.remove-linked-list-elements/remove-linked-list-elements.java)| Easy|
 |206|[reverse-linked-list](https://leetcode.com/problems/reverse-linked-list/)| [java](./206.reverse-linked-list/reverse-linked-list.java)| Easy|
+|209|[minimum-size-subarray-sum](https://leetcode.com/problems/minimum-size-subarray-sum/)| [java](./209.minimum-size-subarray-sum/minimum-size-subarray-sum.java)| Medium|
 |215|[kth-largest-element-in-an-array](https://leetcode.com/problems/kth-largest-element-in-an-array/)| [java](./215.kth-largest-element-in-an-array/kth-largest-element-in-an-array.java)| Medium|
 |232|[implement-queue-using-stacks](https://leetcode.com/problems/implement-queue-using-stacks/)| [java](./232.implement-queue-using-stacks/implement-queue-using-stacks.java)| Easy|
 |234|[palindrome-linked-list](https://leetcode.com/problems/palindrome-linked-list/)| [java](./234.palindrome-linked-list/palindrome-linked-list.java)| Easy|
