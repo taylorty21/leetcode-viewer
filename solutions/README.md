@@ -3,9 +3,9 @@ This is my leetcode solution folder.
 
 Language: java
 
-Last updated: 2017-09-25
+Last updated: 2018-01-09
 
-I've solved 164/609 problems (113 problems for a fee).
+I've solved 1/675 problems (125 problems for a fee).
 
 The source code was fetched using the tool [leetcode-spider](https://github.com/Ma63d/leetcode-spider).
 
@@ -169,6 +169,7 @@ The source code was fetched using the tool [leetcode-spider](https://github.com/
 |606|[construct-string-from-binary-tree](https://leetcode.com/problems/construct-string-from-binary-tree/)| [java](./606.construct-string-from-binary-tree/construct-string-from-binary-tree.java)| Easy|
 |628|[maximum-product-of-three-numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/)|| Easy|
 |637|[average-of-levels-in-binary-tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/)| [java](./637.average-of-levels-in-binary-tree/average-of-levels-in-binary-tree.java)| Easy|
+|650|[2-keys-keyboard](https://leetcode.com/problems/2-keys-keyboard/)| [java](./650.2-keys-keyboard/2-keys-keyboard.java)| Medium|
 |653|[two-sum-iv-input-is-a-bst](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/)| [java](./653.two-sum-iv-input-is-a-bst/two-sum-iv-input-is-a-bst.java)| Easy|
 |669|[trim-a-binary-search-tree](https://leetcode.com/problems/trim-a-binary-search-tree/)|| Easy|
 |670|[maximum-swap](https://leetcode.com/problems/maximum-swap/)| [java](./670.maximum-swap/maximum-swap.java)| Medium|
