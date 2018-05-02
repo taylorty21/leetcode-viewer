@@ -1,0 +1,1 @@
+{"java":"class Solution {\n    public int trailingZeroes(int n) {\n        return n == 0 ? 0 : n / 5 + trailingZeroes(n / 5);\n    }\n}"}
